@@ -1,0 +1,49 @@
+[
+ {
+  "user_id": 1,
+  "username": "Joao",
+  "user_email":"joao@gmail.com",
+  "user_status": 0
+ },
+ {
+  "user_id":2, 
+  "username": "Maria",
+  "user_email":"maria@gmail.com",
+  "user_status": 1
+ },
+ {
+  "user_id":3,
+  "username": "Pedro",
+  "user_email":"pedro@gmail.com",
+  "user_status": 1
+ },
+ {
+  "user_id":4,
+  "username": "Ana",
+  "user_email":"ana@gmail.com",
+  "user_status": 0
+ },
+ {
+  "user_id":5,
+  "username": "Jorge",
+  "user_email":"jorge@gmail.com",
+  "user_status": 0
+ },
+ {
+  "user_id":6,
+  "username": "Marcos",
+  "user_email":"Marcos@gmail.com",
+  "user_status": 0
+ },
+ {
+  "user_id":7,
+  "username": "Carlos",
+  "user_email":"aCarlosa@gmail.com",
+  "user_status": 0
+ }, {
+  "user_id":8,
+  "username": "Kovesky",
+  "user_email":"Kovesky@gmail.com",
+  "user_status": 0
+ }
+]
